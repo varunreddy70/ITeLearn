@@ -1,1 +1,1 @@
-# ITeLearn
+# IntelliLearn
